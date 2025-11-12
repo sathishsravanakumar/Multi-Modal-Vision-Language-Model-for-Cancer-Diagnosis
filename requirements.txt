@@ -1,0 +1,21 @@
+jupyterlab
+notebook
+pandas>=1.4
+numpy>=1.23
+scikit-learn>=1.1
+matplotlib
+seaborn
+torch>=1.13
+torchvision
+tqdm
+transformers
+sentence-transformers
+timm
+Pillow
+scikit-image
+datasets
+accelerate
+
+# Optional (only if used in notebooks):
+# wandb
+# evaluate
