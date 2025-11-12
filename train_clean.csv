@@ -1,0 +1,2010 @@
+file_name,text,label
+Training/pituitary_tumor/p (121).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (794).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (2).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (55).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (60).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (187).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (26).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(99).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(79).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m3 (56).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(214).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (218).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (350).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (324).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (183).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(266).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (804).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (283).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (187).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (822).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (527).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image (40).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m3 (103).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (764).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (169).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (36).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (71).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (732).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (47).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (512).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (118).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (174).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/no_tumor/image(17).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(278).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (356).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (247).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/glioma_tumor/gg (34).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (305).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (325).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (128).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (469).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (206).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (142).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (64).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (262).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (39).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (744).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (35).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (709).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (777).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (552).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (116).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (314).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (56).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (387).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (577).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (647).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (554).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (94).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (188).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(20).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (332).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (65).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (157).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (204).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (399).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (450).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(51).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m3 (27).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (132).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (171).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (297).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(189).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (714).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (194).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (76).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (593).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (462).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (174).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (822).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image (28).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m (89).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (363).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (617).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (170).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (386).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (698).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (199).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (97).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/glioma_tumor/gg (189).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (397).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (50).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(11).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/no_tumor/image(200).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(290).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m (173).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (35).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (139).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/meningioma_tumor/m2 (10).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(145).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (237).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (138).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (30).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (720).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (49).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (64).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (653).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/pituitary_tumor/p (265).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (81).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (659).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (6).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (404).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(130).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m (99).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (164).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image (42).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/meningioma_tumor/m1(36).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(3).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (330).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(140).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (186).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(123).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(168).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(52).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image (57).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (83).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (658).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (609).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (359).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (2).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (365).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (260).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (170).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(64).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(223).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (670).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (96).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (586).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (705).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (342).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(217).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m2 (58).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (20).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(292).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (124).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(326).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m3 (149).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(170).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/pituitary_tumor/p (826).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (632).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (210).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (388).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image (10).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (237).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (379).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (479).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(304).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (5).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (652).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/glioma_tumor/gg (447).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (85).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (144).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (306).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (787).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(166).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (367).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (22).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(114).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(121).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m2 (92).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (700).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (787).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(294).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(50).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (187).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (130).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (84).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (602).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (347).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (133).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(13).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/no_tumor/image (16).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(307).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(243).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (549).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(226).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (181).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (634).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (285).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(34).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (716).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (674).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (203).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (294).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (667).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(29).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (38).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (218).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (628).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (207).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (309).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (492).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(257).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (56).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (725).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (216).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (512).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (644).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (604).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (166).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (825).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m2 (120).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (253).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/glioma_tumor/gg (585).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (516).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (26).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (393).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (579).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (172).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (798).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image (30).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (659).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (459).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(125).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (770).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(122).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (789).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (219).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (135).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/no_tumor/image (38).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m2 (14).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (132).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/pituitary_tumor/p (380).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (654).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(2).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (111).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (298).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (113).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (126).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (75).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (735).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (103).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (281).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (484).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (306).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (115).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (198).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (794).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (169).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (617).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (54).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (406).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (684).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (213).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(197).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/meningioma_tumor/m2 (107).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (115).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (605).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (84).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image (13).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m2 (44).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (757).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (45).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (70).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (109).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (138).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(124).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(160).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (493).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(218).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (770).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (87).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(77).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(5).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (646).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(185).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (801).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (371).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/pituitary_tumor/p (38).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (91).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (95).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (576).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (93).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (86).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(21).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (636).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(194).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (69).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (790).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (810).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(154).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (68).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (313).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (19).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (105).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (138).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(81).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (201).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (118).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(71).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(65).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (381).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (338).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(8).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (73).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (232).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (184).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (24).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (428).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(139).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/glioma_tumor/gg (383).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(47).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (106).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (109).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (267).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (490).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image (50).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (304).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (437).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (369).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (112).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (739).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (18).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(156).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image (11).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (798).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(160).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (718).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (12).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(142).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (173).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(133).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (474).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (628).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (49).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(103).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (91).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (651).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/meningioma_tumor/m2 (167).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (732).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(90).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (802).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (36).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image (27).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m (189).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (775).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (690).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (112).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (33).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(22).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/meningioma_tumor/m2 (67).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (818).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (93).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (552).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (724).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (443).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (64).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (234).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (249).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/meningioma_tumor/m2 (70).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (526).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(167).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m (197).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (188).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (518).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (165).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (607).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (521).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (482).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (508).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (557).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (181).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (606).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(181).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/meningioma_tumor/m (90).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (385).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (228).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (90).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (795).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (427).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (79).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (44).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (772).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (60).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/meningioma_tumor/m3 (220).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/glioma_tumor/gg (649).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (267).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (239).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (355).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (40).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (294).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(295).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (642).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (501).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (641).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (499).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (147).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (87).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (78).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (479).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (557).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (310).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(110).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (427).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (46).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (384).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (84).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (195).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (151).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(172).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (179).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (367).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (148).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (598).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (175).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (193).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (13).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (500).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (652).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(320).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m3 (2).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(134).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (240).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (289).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image (62).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m1(53).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/glioma_tumor/gg (287).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (133).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/meningioma_tumor/m3 (80).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (328).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(177).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(229).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m (182).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(66).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (272).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(159).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (734).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (162).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(137).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (134).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/glioma_tumor/gg (162).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (335).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(60).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(26).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m3 (59).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (498).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (734).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (774).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (19).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (714).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/meningioma_tumor/m1(88).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (115).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (66).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (79).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (217).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(277).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (120).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (141).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image (64).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (260).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (146).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (764).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (349).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (571).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(100).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (200).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (412).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (107).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (18).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (69).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (641).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (594).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(204).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (27).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/pituitary_tumor/p (320).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (326).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (475).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image (44).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (495).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (791).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (122).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (351).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(138).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (487).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image (63).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (230).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (282).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (127).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (28).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (73).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (643).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (257).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (34).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (560).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (131).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(325).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m2 (170).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (104).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (247).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (248).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (182).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (52).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (12).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (336).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (144).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (219).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/pituitary_tumor/p (658).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (137).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/meningioma_tumor/m3 (226).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (234).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (723).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/meningioma_tumor/m3 (62).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (100).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (266).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (630).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (188).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (757).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (281).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (101).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (158).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (588).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(192).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (335).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (241).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (245).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (134).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(67).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (753).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (118).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(190).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (615).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(89).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (64).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m1(148).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (535).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (106).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (650).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(137).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m2 (158).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (807).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (243).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/glioma_tumor/gg (145).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (77).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(40).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (193).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (692).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (271).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(168).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (174).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (817).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (226).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(16).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(270).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/2.jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m2 (87).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (172).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (210).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (32).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (72).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (464).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (246).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (692).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (399).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (73).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image (52).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(235).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (43).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(321).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (21).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(287).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m2 (119).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (792).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (48).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (776).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (176).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/glioma_tumor/gg (718).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (205).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (78).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (92).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(42).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (412).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (228).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (146).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (151).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (784).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (147).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (161).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(45).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (317).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(79).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (442).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (67).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (480).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (205).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(246).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (574).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/5.jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (611).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (322).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (680).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (362).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (135).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (95).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(49).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (178).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (42).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (149).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image (54).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(141).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (358).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (85).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(39).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image (25).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m (140).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(156).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (347).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (21).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (238).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (411).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(121).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/pituitary_tumor/p (224).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (23).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(19).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (780).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (495).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (256).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (446).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (805).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (590).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (322).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (680).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (13).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(141).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (559).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (436).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (40).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (610).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(178).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (94).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (278).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (123).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (618).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (452).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (547).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (429).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (81).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (339).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (397).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(52).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (396).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(140).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (195).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(116).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (88).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (418).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/no_tumor/image(39).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m (63).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (374).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (408).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (391).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (128).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (393).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(146).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (75).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(98).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (183).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (168).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(131).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (295).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (22).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (462).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(86).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (620).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (373).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (161).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image (5).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (110).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(96).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(196).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/glioma_tumor/gg (265).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(159).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (76).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (148).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (525).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (94).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (566).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(312).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (343).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(276).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(102).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (98).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (152).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(197).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (590).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (80).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (98).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (166).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(63).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(151).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (730).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (492).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (624).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (193).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (640).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (220).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (780).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (470).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (215).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (200).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (545).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (153).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (29).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (704).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (796).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (105).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (361).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (71).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (460).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (62).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(37).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (43).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image (29).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m (124).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (61).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (164).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (185).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (173).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (100).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (118).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (19).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(239).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m2 (133).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (201).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/pituitary_tumor/p (32).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (289).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (506).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(43).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (520).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (596).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(105).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/meningioma_tumor/m1(176).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (737).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(200).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/7.jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (244).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (421).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (26).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (708).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(165).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(37).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (638).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (74).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (667).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (157).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(286).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m3 (240).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (159).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (380).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (35).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (382).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (28).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (79).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (426).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (302).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (689).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (486).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (429).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (511).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (120).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (181).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(143).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (755).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (128).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image (20).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (799).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (177).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(221).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(161).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (163).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (196).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (360).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (669).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(199).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (655).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (584).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (130).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (91).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (143).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (600).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (534).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (592).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (123).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (58).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (199).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(265).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(120).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(129).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/pituitary_tumor/p (93).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (109).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (458).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image (4).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (531).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (501).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (783).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (153).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(132).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (156).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(48).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (432).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (781).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (132).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/pituitary_tumor/p (453).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (176).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (102).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (85).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (53).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (307).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (127).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(12).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (313).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (809).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (168).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (761).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (452).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (148).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (192).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (422).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(112).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/meningioma_tumor/m (25).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(54).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (431).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(106).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (431).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(185).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (244).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (771).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (88).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (477).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (120).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (435).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(249).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (167).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (8).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (167).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (606).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (754).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(77).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (107).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (184).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (23).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (726).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (2).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (376).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (524).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (416).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(256).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m2 (160).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(206).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (457).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (422).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (39).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image (34).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/meningioma_tumor/m3 (11).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (10).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (697).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (104).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (98).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (241).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (312).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (27).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (145).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (719).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (101).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (212).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (563).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (15).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (346).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (612).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m2 (39).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (156).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (54).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (24).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (270).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (29).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (209).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (240).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (612).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (117).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (410).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (644).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (375).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (693).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (111).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (6).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (206).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (122).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (85).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (696).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (147).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (369).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (441).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (560).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (45).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(232).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m2 (166).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (767).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (150).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (635).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (241).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (108).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (546).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (78).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image (14).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (561).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (214).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (370).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (277).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(205).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(6).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (321).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (70).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (433).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (748).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (625).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (20).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (196).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (52).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (98).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (366).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (528).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(44).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(263).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/glioma_tumor/gg (197).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (749).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (255).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (348).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (509).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (194).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(124).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (827).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (151).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(181).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (3).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (263).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(297).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(2).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (250).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (21).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (89).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (449).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (473).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (263).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (325).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (419).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (345).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (536).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (53).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(82).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (348).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(189).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (124).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (570).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (33).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(171).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (635).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (109).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(62).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (166).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (261).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/meningioma_tumor/m (19).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (409).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (6).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(182).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(136).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (705).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (673).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(311).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (394).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(194).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (772).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(267).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (811).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (75).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (1).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (101).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (611).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (389).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (111).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (425).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(75).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (219).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (792).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (453).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(247).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (517).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (168).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(169).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/pituitary_tumor/p (293).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (296).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (423).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/glioma_tumor/gg (480).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (687).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (285).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (77).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (66).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (132).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (146).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (564).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (23).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/glioma_tumor/gg (11).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (394).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (398).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (46).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (388).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (332).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (73).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(274).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (598).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (766).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (147).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (242).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(149).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (199).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (266).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (546).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (484).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (669).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (165).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (190).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (155).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (799).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (721).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (51).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (676).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(99).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(55).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(128).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (423).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (234).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (491).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (123).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (139).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(248).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m3 (131).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/no_tumor/image(126).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (49).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(119).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (112).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (107).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (39).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (229).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/meningioma_tumor/m3 (68).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(109).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (767).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (567).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (103).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (76).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (530).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (618).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (446).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/glioma_tumor/gg (35).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (41).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (765).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (19).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (109).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (26).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/meningioma_tumor/m2 (50).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (713).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (720).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (420).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (733).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(130).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (123).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(234).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (319).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (79).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(283).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (699).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(61).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (3).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (796).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(35).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (39).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (581).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (773).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(179).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image (55).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (719).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (43).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (724).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (180).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (371).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (578).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (154).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (531).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (80).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (84).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (514).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (230).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (541).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(132).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (390).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(305).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (633).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (9).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (747).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(308).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (437).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (59).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image (45).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (450).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(108).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (198).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (72).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (92).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (44).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (172).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (61).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/glioma_tumor/gg (207).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (491).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(19).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/glioma_tumor/gg (251).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/meningioma_tumor/m1(80).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (390).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(193).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (9).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (343).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (746).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (24).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (813).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (748).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (146).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (649).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (177).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (130).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (57).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (246).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(7).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/pituitary_tumor/p (716).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (503).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (366).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (165).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (134).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (695).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (454).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (763).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (440).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image (53).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m3 (222).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image (8).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/glioma_tumor/gg (672).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(144).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (653).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (251).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (233).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (768).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (91).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (168).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(188).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (222).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (136).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(285).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(191).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m2 (16).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (645).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (604).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (179).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(169).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m1(87).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (252).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (352).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (465).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (287).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(164).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (191).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (467).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (29).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image (51).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m2 (110).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (57).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (247).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(280).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (736).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (553).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (805).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (177).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (782).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (34).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (327).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (177).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (678).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (587).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (562).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(11).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (368).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(271).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (41).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(17).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (257).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (455).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (32).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (482).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (55).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (744).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (116).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (808).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (154).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (153).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (688).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(182).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(85).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (421).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (67).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (575).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (274).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(196).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (116).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (220).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (416).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(118).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (300).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (142).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(133).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (156).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (48).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(187).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (129).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (396).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (564).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image (33).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (77).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(55).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (524).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (814).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (73).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (413).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(170).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m1(63).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(108).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(94).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (539).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (774).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (467).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(291).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (537).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (683).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (448).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/pituitary_tumor/p (67).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (55).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (382).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (629).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (236).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (12).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (543).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (824).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (245).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image (19).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(92).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (25).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(10).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/glioma_tumor/gg (3).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(299).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m1(3).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (189).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(123).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (339).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (121).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (149).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (145).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(175).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (179).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (703).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (743).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (7).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (63).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (522).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (433).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (164).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (24).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (207).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (88).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (654).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (8).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (95).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (665).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (163).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (15).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(224).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (225).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(32).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/pituitary_tumor/p (88).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (158).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (594).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(102).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (825).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (406).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (415).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (203).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (529).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (192).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (497).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(41).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (726).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (465).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (279).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(316).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (395).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (114).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (663).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (230).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (302).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (6).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/pituitary_tumor/p (338).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (71).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(86).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (120).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (507).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (539).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(144).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(72).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (785).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (250).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/pituitary_tumor/p (223).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (173).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (318).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (310).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (140).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(203).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (4).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (686).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (106).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (36).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/meningioma_tumor/m3 (1).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (681).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (195).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (53).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(74).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(186).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (630).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (346).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (572).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (61).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (102).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (7).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (150).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (165).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (78).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (97).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(22).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (178).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (300).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (690).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (151).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (137).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (198).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (504).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (157).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (632).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (488).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(128).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (461).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (152).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (108).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (125).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (691).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (42).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(309).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m3 (83).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (59).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (527).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (520).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (456).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (21).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(82).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (637).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(253).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (502).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(183).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (742).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (344).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (745).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (201).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (689).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(255).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (33).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(78).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(310).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (424).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/pituitary_tumor/p (414).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (392).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (127).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(4).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (458).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (623).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(318).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (821).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (518).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (548).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (309).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (212).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image (46).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m2 (175).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (823).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (114).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image (47).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (227).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (698).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (38).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (603).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (797).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (405).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (504).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (16).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (286).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (214).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (143).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(40).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m (62).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (224).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(84).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(101).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (236).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (378).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (284).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (331).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (402).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (137).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (229).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (102).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (511).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (712).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(45).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (819).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (142).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (38).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(1).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m3 (51).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (728).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (54).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(180).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/no_tumor/image(58).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/glioma_tumor/gg (405).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (242).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (407).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (85).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (308).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (17).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(43).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (65).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (179).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (750).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (185).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (150).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (600).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (47).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (127).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (754).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (686).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(152).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (786).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (717).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (498).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/6.jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m2 (65).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image (32).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/pituitary_tumor/p (660).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (455).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (259).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (28).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (53).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (434).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (603).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(319).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(57).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(251).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (580).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (587).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(289).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (166).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (16).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (668).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(145).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(154).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(103).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(245).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (317).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (137).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(193).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (69).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (760).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image (15).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (160).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(65).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (84).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (591).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (813).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (743).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/glioma_tumor/gg (363).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (697).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (817).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (581).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (62).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (18).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (148).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (727).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (243).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (75).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (110).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/pituitary_tumor/p (466).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (403).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (722).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(73).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (597).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m2 (17).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (326).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (227).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (733).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (243).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(242).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/meningioma_tumor/m3 (245).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (284).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (171).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (806).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(238).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (761).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (505).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (303).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (83).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (37).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (708).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (342).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (148).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (149).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (268).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (490).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (417).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (424).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (232).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (402).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(25).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (443).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(317).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m2 (105).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(61).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (253).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (596).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (430).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (190).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (66).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (131).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (292).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (150).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(275).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(30).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (162).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m (37).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (540).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (295).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (129).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (745).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (432).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (30).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (550).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (330).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (476).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (478).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (419).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(323).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (616).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (226).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (756).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (648).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (81).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (104).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (101).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (221).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (377).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (165).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (403).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (463).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(244).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(269).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (514).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (124).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(279).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (510).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (4).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (40).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (456).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(178).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (184).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (217).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(81).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (677).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (167).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (341).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(183).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (22).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (488).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (756).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(71).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/no_tumor/image(293).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(83).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (401).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (216).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(116).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (60).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (119).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(220).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (108).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (737).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (601).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (21).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m1(119).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (664).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (170).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (763).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (99).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (198).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (314).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (359).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (666).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (710).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (702).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (642).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (626).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (292).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (152).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (163).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (105).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(73).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(107).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (204).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(171).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(213).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (447).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(211).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (141).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(125).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/no_tumor/image (12).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (27).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (100).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (238).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (186).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (637).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(112).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(107).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (175).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (61).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (31).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (727).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (11).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (329).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (468).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (722).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (445).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (762).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (9).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (439).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(151).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(69).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (470).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (410).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(184).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (123).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(177).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(50).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(188).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(44).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (783).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (324).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (361).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (90).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(96).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/pituitary_tumor/p (211).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(25).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (95).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (502).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (275).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (42).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (623).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (699).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (563).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(117).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (542).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (248).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (140).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (395).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (803).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/glioma_tumor/gg (364).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (93).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (741).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (159).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (487).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (819).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (515).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (577).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (558).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(23).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(207).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(7).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(272).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m3 (244).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (471).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (472).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (8).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (749).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (624).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (41).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (272).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (214).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (55).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (549).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (672).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (117).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (126).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (80).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (595).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (236).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (70).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (800).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(31).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (448).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(59).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (736).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (146).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image (22).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m3 (142).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (483).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (154).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (674).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(56).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (516).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (208).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(284).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (1).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (8).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(53).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(33).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/pituitary_tumor/p (451).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (589).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(29).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (373).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (620).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m2 (121).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (657).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (298).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(149).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(157).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (489).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (22).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (86).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (127).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (428).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (209).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (556).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (188).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (555).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (293).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(236).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (804).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(173).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (376).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (175).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (602).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(9).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (559).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (202).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (192).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/3.jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m3 (37).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (254).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (138).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (513).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (434).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (616).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (573).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (735).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (35).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(69).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (768).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (23).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (174).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (45).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (37).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (59).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (54).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (246).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (275).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (141).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (605).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (694).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (36).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (156).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (252).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (670).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (71).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (269).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (392).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (663).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (775).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (213).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (308).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (203).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (701).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (510).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (585).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (657).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (13).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (178).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (276).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (414).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(237).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (622).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (51).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (58).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (97).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (225).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (483).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(268).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (7).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (187).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (119).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (660).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(135).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (66).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (323).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (497).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (513).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (98).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (106).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (532).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (717).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (261).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (372).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (789).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (194).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(88).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (568).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (25).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/meningioma_tumor/m1(152).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (34).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (703).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (778).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(139).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (507).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (223).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (646).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(175).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (651).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (228).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (597).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (119).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (113).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (389).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (319).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (258).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (190).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (185).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (538).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (55).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(150).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(129).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (619).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m2 (15).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (180).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(300).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (40).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (311).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (435).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (45).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (134).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/glioma_tumor/gg (647).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (102).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (776).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (20).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (331).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (802).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (82).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (463).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (100).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (264).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(225).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (535).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (222).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (89).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(66).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m1(28).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(115).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (475).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (671).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (79).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (303).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (14).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (239).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (6).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (46).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (811).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (201).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (420).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (233).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (30).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (196).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (33).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (193).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (231).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (523).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (121).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (788).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (128).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (158).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (160).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(174).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (168).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (176).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (619).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (793).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (354).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (702).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (185).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (37).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (122).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (573).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (274).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (249).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(254).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/glioma_tumor/gg (681).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (568).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(18).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m3 (125).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (50).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (126).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(14).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (476).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (122).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m (61).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(42).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (812).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (509).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (793).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (340).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (215).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (199).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(59).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (52).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (290).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (11).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (387).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(192).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m (14).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(219).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (562).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m2 (156).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (333).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (69).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (740).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (44).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(288).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image(30).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/no_tumor/image (18).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m (3).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (13).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (82).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(201).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/pituitary_tumor/p (441).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(75).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (494).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (91).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (17).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (639).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (177).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (116).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (196).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (769).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (301).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(72).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (13).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (254).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (51).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m (48).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/meningioma_tumor/m2 (122).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (262).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (316).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (46).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (528).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (496).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/no_tumor/image(67).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (578).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (231).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (797).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (181).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/glioma_tumor/gg (750).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m2 (80).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (730).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m1(165).jpg,an MRI scan of a brain with glioma tumor,glioma_tumor
+Training/glioma_tumor/gg (87).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (145).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m1(60).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m3 (86).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/meningioma_tumor/m (191).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (354).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (315).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (671).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/no_tumor/image(258).jpg,an MRI scan of a brain with no tumor,no_tumor
+Training/pituitary_tumor/p (11).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/glioma_tumor/gg (486).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
+Training/pituitary_tumor/p (738).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/pituitary_tumor/p (477).jpg,an MRI scan of a brain with pituitary tumor,pituitary_tumor
+Training/meningioma_tumor/m3 (77).jpg,an MRI scan of a brain with meningioma tumor,meningioma_tumor
